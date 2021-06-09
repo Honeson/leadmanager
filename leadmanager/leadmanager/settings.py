@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     ### Local ###
     'leads.apps.LeadsConfig',
+    'frontend.apps.FrontendConfig',
 
     ### Third Party ###
     'rest_framework',
